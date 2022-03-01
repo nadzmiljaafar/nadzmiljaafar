@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-git remote add origin https://github.com/nadzmiljaafar/nadzmiljaafar.git
-git branch -M main
-git push -u origin main
