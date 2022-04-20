@@ -39,5 +39,7 @@ def predictSalary(model,test_data):
     maindf= pd.DataFrame.from_dict( prediction)
     maindf = pd.concat([maindf, test_data], axis=1)
     return maindf
+
+print('hi')
     
 

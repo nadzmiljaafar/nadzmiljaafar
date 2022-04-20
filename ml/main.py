@@ -31,3 +31,5 @@ result = ps.predictSalary(model,test_data)
 result.to_csv(str(mypath) + '\prediction.csv',index=False)
 
 print(result)
+
+print('hi')
