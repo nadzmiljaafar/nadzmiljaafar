@@ -29,7 +29,7 @@ from sklearn.metrics import precision_recall_curve,plot_precision_recall_curve,p
 # create dynamic folder and data loading
 mypath = otomkdir.otomkdir.auto_create_folder(folder_extend='Nadzmil')
 df = pd.read_csv(str(mypath) + '\surveyA.csv')
-
+print('hi')
 ##==================================================================##
 ##  DATA CLEANING
 ##==================================================================##
